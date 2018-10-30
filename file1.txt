@@ -1,4 +1,8 @@
 content of file 1
 line 2
 line3
+<<<<<<< HEAD
 line4-01
+=======
+line4-00
+>>>>>>> 80d786c047f07062eba67c198627f73541f1d14a
